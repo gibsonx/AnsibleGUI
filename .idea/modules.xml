@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnsibleGUI.iml" filepath="$PROJECT_DIR$/.idea/AnsibleGUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ansiblepy.iml" filepath="$PROJECT_DIR$/.idea/ansiblepy.iml" />
     </modules>
   </component>
